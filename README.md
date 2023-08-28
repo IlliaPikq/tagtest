@@ -1,1 +1,2 @@
-first commit 
+first commit
+v1.0
